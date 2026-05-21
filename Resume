@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+
+        <title>Resume</title>
+
+    </head>
+
+<body>
+    <h1>Rishi Keshri</h1>
+    <img src="./index.html/photo.jpg" height="160" />
+
+<H2> Summary </H2>
+I am a hardworking student,currently learning web development.
+<hr />
+
+<h2>Education</h2>
+<ul>
+<li>B.tech in Electrical Engineering-Heritage Institute Of Technology,Kolkata(2026-2030)
+</li>
+</ul>
+<hr />
+
+<h2>Work Experience</h2>
+I just learn about html till now,will further update my resume.This all are just for practice.
+
+<ul>
+
+<li> <h3>Customer Service Representative - ABC Inc.</h3></li>
+June 2014 - May 2018
+<ul>
+<li>Answered customer inquiries via phone and email</li>
+<li>Resolved customer complaints and issues</li>
+<li>Maintained customer records and updated account information</li></ul>
+</ul>
+
+<ul>
+<li> <h3> Administrative Assistant - XYZ Corp</h3></li>
+          June 2018 - Present
+<ul>
+          <li> Assisted with scheduling appointments and meetings</li>      
+    <li>Managed incoming and outgoing mail and correspondence</li>
+    <li>Prepared reports and presentations using Microsoft Office Suite
+            </li>
+</ul>   
+</ul>
+<HR />
+<H2>Skills</H2>
+
+<UL>
+<LI>Customer service: ⭐️⭐️⭐️⭐️⭐️</LI>
+<li>Microsoft Office Suite: ⭐️⭐️⭐️</li>
+<li>Organizational skills: ⭐️⭐️⭐️⭐️</li>
+</UL>
+<hr />
+
+<h2>Awards and Certifications</h2>
+<ul>
+    <li>Employee of the Month - ABC Inc. (August 2016)</li>
+</ul>
+<hr />
+
+<h2>Other</h2>
+<ul>
+<li >
+    <a href="Hobbies.html">My Hobbies</a>
+</li>
+<li>
+<a href="./index.html/Contact.html">Contact me</a>
+ </li>
+</ul>
+<hr />
+</body>
+</html>
+
